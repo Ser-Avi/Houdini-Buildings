@@ -2,11 +2,19 @@
 
 Avi Serebrenik - CIS 5660 Fall 2025
 
+## Results
+![](pic.png)
+![](nodes.png)
+![](Gif.gif)
+
 ## Reference Images
 These come from buildings in Havana, Cuba
 ![](/Ref1.jpg)
 ![](/Ref2.jpg)
 ![](/Ref3.jpg)
+
+I made windows, doors, and balconies. The balconies are also specially made to be on the top of buildings, similar to the reference below. However, unlike the reference, I have doors on higher floors, which are what balconies are attached to.
+Each asset also has a control node to control its size, and a special attribute, which is grids for the window and doors, and pillar density for the balconies.
 
 ### Breakdown
 The buildings have a distinct first floor, repetitive middle floors, and a flat roof with a railing. The first floor has large arches and columns that extend over the sidewalk.
